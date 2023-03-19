@@ -1,0 +1,19 @@
+h1{
+    position: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+html,body{
+    height: 100%;
+    background-image:linear-gradient(to right,#CCFFCC,#CCFFFF);
+}
+#back{
+    position: relative;
+    height:50%;
+    width: 50%;
+    left:25%;
+    top:15%;
+}
